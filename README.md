@@ -121,9 +121,8 @@ App displays: Temperature, Humidity, Wind Speed, Condition
 
 > Add your screenshot here
 
-```markdown
-![Weather App Screenshot](<img width="2716" height="1387" alt="Image" src="https://github.com/user-attachments/assets/6219f1a0-e6c6-4ab4-a259-01606acd1814" />)
-```
+
+![Weather App Screenshot]<img width="2716" height="1387" alt="Image" src="https://github.com/user-attachments/assets/6219f1a0-e6c6-4ab4-a259-01606acd1814" />
 
 ---
 
